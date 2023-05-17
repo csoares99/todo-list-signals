@@ -1,0 +1,12 @@
+<div mat-dialog-content>
+    <p>Digite uma descrição</p>
+    <mat-form-field>
+        <mat-label>label</mat-label>
+        <input matInput [(ngModel)]="description">
+    </mat-form-field>
+    <section>
+        <div class="button-row">
+            <button mat-button color="primary" (click)="confirmDialog()">Confirmar</button>
+        </div>
+    </section>
+</div>
