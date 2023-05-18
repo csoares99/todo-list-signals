@@ -1,4 +1,4 @@
-# TodoListSignals
+# Angular todo list using signal
 
 Simple project developed for testing using the angular signals, I created a todo list to react to each item created by dialog 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
